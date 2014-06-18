@@ -82,8 +82,8 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-
-	<plugins>
+<build>
+<plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-scm-plugin</artifactId>
